@@ -10,7 +10,7 @@ Set-Location "C:\Users\WDAGUtilityAccount\Desktop\Luminar Neo"
 .\"Luminar Neo.exe"
 
 # adds delay to the execution of script, letting Luminar to launch, depending on your hardware lower this value
-Start-Sleep -Seconds 22
+Start-Sleep -Seconds 15
 
 # kills Luminar so that it loads once, produces error about lack of internet connection
 taskkill /IM "Luminar Neo.exe" /F
