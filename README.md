@@ -188,6 +188,9 @@ When I want to remedy a problem, I usually address the root cause of it. By secu
 
 ## Windows Sandbox <img width="55" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/diamond-7.gif">
 
+> [!IMPORTANT]\
+> Use the [Harden System Security app](https://github.com/HotCakeX/Harden-Windows-Security/wiki/Sandbox-Maker) to easily create Windows Sandbox configurations and manage them in a unified way.
+
 Windows Sandbox is a useful environment for using software without ruining your system. It provides a pristine, disposable and secure place that replicates your host OS.
 
 It enables you to run applications in an isolated and ephemeral virtual machine on your Windows computer. When you exit the Windows Sandbox, everything inside it is discarded.
